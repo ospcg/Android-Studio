@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplicación Demo</string>
+    <string name="Hola">Hola Oscar</string>
+    <string name="enviar">Enviar</string>
+    <string name="activity">Activity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_second">Segunda Pantalla</string>
+    <string name="hello_world">Nueva Activity</string>
+    <string name="abrir_activity">Abrir</string>
+</resources>
